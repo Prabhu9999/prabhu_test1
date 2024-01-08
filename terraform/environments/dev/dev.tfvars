@@ -1,0 +1,7 @@
+project             = "lakehouse-dev-34e0"
+db_host_project     = "fms-backend-dev-3e73"
+region              = "australia-southeast1"
+storage_class       = "standard"
+db_name             = "fms_core"
+db_replication_name = "fms_dw_core_replication"
+db_publication_name = "fms_dw_core_publication"
